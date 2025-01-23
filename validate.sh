@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-cue vet src/tokens/solana.tokenlist.json automerge/schema.cue -d '#Tokenlist'
+cue vet /data/data/com.termux/files/home/token-list/src/tokens/solana.tokenlist.json \
+        /data/data/com.termux/files/home/token-list/automerge/schema.cue
