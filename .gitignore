@@ -11,3 +11,4 @@ coverage
 package-lock.json
 .DS_Store
 token-list/
+ngrok-stable-linux-arm.zip
